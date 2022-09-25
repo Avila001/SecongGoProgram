@@ -1,3 +1,3 @@
 # SecongGoProgram
 Hello!
-ewe raz
+New method
